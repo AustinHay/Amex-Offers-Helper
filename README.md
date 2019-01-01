@@ -1,5 +1,5 @@
 # Amex Offers Helper
-A tiny script to register all availiable Amex credit card offers
+A tiny script to register all availiable Amex credit card offers. Cloned and updated copy of the original by @qibinlou https://github.com/qibinlou/Amex-Offers-Helper
 
 
 ## Usage
@@ -10,6 +10,3 @@ A tiny script to register all availiable Amex credit card offers
 5. Copy the whole script in `index.js` file and paste it into your console, press ENTER to execute the script. Note the buttons are clicked one after one with a 2s waiting time to avoid missing a click.
 6. That's it! Enjoy your offers 👻 
 
-
-## FAQ
-Any question, please send me an email: qibinlou AT hotmail DOT com, or file an ticket in this repo.
